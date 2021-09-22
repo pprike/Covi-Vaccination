@@ -18,3 +18,6 @@ details will be stored in Myappointments CoreData. The user has the facility
 to update the name if they have entered the wrong data by mistake, or the
 user can cancel the appointment. The profile will show the details of the user
 that has logged in.
+
+
+Please have a look on [User Documentation](User%20Manual.pdf)
