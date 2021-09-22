@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MyAppointmentsViewController.loadAllAppointments():MyAppointmentsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MyAppointmentsViewController.tableView(_:cellForRowAt:):MyAppointmentsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MyAppointmentsViewController.loadAllAppointments():MyAppointmentsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProfileViewController.getUser(email:):ProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSManagedObject)((CoreData.NSManagedObject)(null))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
